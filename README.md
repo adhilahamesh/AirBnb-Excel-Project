@@ -89,13 +89,15 @@ Top 10 hosts (grouped by unique `host_id` to avoid merging different people with
 ## 🖼️ Screenshots
 
 ### Overview
-![Overview](page1-overview.png)
+![Overview](<img width="901" height="359" alt="Screenshot 2026-09-26 235443" src="https://github.com/user-attachments/assets/8c117e07-1bf9-4e9b-b266-7225f1fdaac8" />
+)
 
 ### Pricing & Availability
-![Pricing](page2-pricing.png)
+![Pricing](<img width="605" height="387" alt="Screenshot 2026-09-26 235512" src="https://github.com/user-attachments/assets/35c78142-de86-4a93-abc3-520ea89fbd2a" />)
+
 
 ### Hosts & Neighbourhoods
-![Hosts](page3-hosts.png)
+![Hosts](<img width="880" height="396" alt="Screenshot 2026-09-26 235534" src="https://github.com/user-attachments/assets/50081a4f-a374-494d-86ff-4495b2cbed10" />)
 
 ---
 
