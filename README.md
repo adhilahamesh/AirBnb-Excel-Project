@@ -2,10 +2,7 @@
 
 An interactive 3-page Excel dashboard analyzing the NYC Airbnb 2019 dataset — exploring pricing, availability, host concentration, and neighbourhood dynamics across all five boroughs of New York City.
 
-📊 **[Open the Full Dashboard (Google Drive)](https://docs.google.com/spreadsheets/d/1PDgg46HsRfXufBfyfUeTRF6TqDTN-jUJ/edit?usp=sharing&ouid=102257784823381701268&rtpof=true&sd=true<img width="880" height="396" alt="Screenshot 2026-09-26 235534" src="https://github.com/user-attachments/assets/0b3bb89b-4bf5-457c-afab-5b3df9cf8749" />
-<img width="605" height="387" alt="Screenshot 2026-09-26 235512" src="https://github.com/user-attachments/assets/74c4cd91-0a7b-4571-9a3d-ab6d54cb662e" />
-<img width="901" height="359" alt="Screenshot 2026-09-26 235443" src="https://github.com/user-attachments/assets/8a167afa-f6c4-49e1-b336-c6f6952f847d" />
-)**
+📊 **[Open the Full Dashboard (Google Drive)](https://docs.google.com/spreadsheets/d/1PDgg46HsRfXufBfyfUeTRF6TqDTN-jUJ/edit?
 
 ---
 
